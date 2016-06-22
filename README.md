@@ -1,4 +1,4 @@
-# Forest Generator
+# Pseudo-Random Forest Generator
 
 ## Wannabe emoji-based cellular automata
 
